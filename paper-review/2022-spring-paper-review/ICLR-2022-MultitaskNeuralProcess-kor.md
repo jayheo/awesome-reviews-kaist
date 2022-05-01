@@ -107,9 +107,7 @@ Note that you can attach tables and images, but you don't need to deliver all ma
 
 ### Take home message \(오늘의 교훈\)
 
-> Neural Processes (NPs)는 위대하다.
->
-> 연구자님들 수고하셨습니다.
+
 
 ## Author / Reviewer information
 
